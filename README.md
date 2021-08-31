@@ -10,7 +10,8 @@
 - ***❓ Ask me about anything in my Discord***  
   
 
-- ***⚡ Fun fact: I like LSPDFR more than FiveM***  
+- ***⚡ Fun fact: I like LSPDFR more than FiveM***
+- ***⚡ Join my Discord: https://discord.io/BlaineDevelopment***
   
 
 <br/>  
@@ -61,17 +62,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlaineG24-Official&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
+<br/>    
 
 <br/>  
 
