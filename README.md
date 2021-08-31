@@ -1,34 +1,41 @@
 ## Hey 👋, I'm Blaine  
+<div align="center">
+<img src="https://i.imgur.com/lLIOe2N.png" align="center" style="width: 100%" />
+</div>  
   
 
-<a href="https://twitter.com/https://twitter.com/G24Blaine" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/BlaineG24-Official" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+### ***<div align="center"> 🚀I'm Blaine, A FiveM Developer and Programmer 👨‍💻 </div>***  
   
 
+- ***❓ Ask me about anything in my Discord***  
+  
 
-
-### About Me  
-***I'm a FiveM  Roleplayer been roleplaying for 2 years and then started getting into Development for FiveM and TeamSpeak then got in HTML and CSS and JavaScript I took Courses In many Programming Languages Join Blaine Development
-https://discord.gg/Af3FnJ3uQv***  
+- ***⚡ Fun fact: I like LSPDFR more than FiveM***  
   
 
 <br/>  
 
 
-## Current  
-<table><tr><td valign="top" width="50%">
-
-- ❓ Ask me about anything in my Discord  
-  
-
-- ⚡ Fun fact: I like what I do  
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-</td><td valign="top" width="50%">
+
+### Languages  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
 
 
 
@@ -37,28 +44,30 @@ https://discord.gg/Af3FnJ3uQv***
 <br/>  
 
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+## Connect with me  
+<div align="center">
+<a href="https://github.com/BlaineG24-Official" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/G24Blaine" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
 </div>  
+  
 
 <br/>  
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BlaineG24-Official&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlaineG24-Official&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
+<br/>  
 
 
-
-</td></tr></table>  
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
@@ -66,7 +75,9 @@ https://discord.gg/Af3FnJ3uQv***
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=BlaineG24-Official&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=BlaineG24-Official&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
