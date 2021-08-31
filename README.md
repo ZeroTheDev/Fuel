@@ -19,7 +19,7 @@ https://discord.gg/Af3FnJ3uQv***
 <br/>  
 
 
-## Rapidfire  
+## Current  
 <table><tr><td valign="top" width="50%">
 
 - ❓ Ask me about anything in my Discord  
