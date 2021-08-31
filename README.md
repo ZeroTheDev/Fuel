@@ -1,4 +1,4 @@
 ### Hey 👋 I'm Blaine
 
 For example:
-<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/BlaineG24-Official/BlaineG24-Official/blob/f8e6c84deb8a35d301ae6d70ea007421e4cd78c6/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
