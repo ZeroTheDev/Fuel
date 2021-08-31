@@ -1,2 +1,2 @@
 ### Hey 👋 I'm Blaine
-<img src="" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="" alt="Blaine FiveM Developer and Programmer">
