@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Blaine  
 <div align="center">
-<img src="https://i.imgur.com/6GUmh51.jpg" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/wKuL9hg.png" align="center" style="width: 100%" />
 </div>  
   
 
