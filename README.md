@@ -1,4 +1,4 @@
-## Hey 👋, I'm Blaine  
+## Hey 👋, I'm ZeroTheDev  
 <div align="center">
 <img src="https://i.imgur.com/wKuL9hg.png" align="center" style="width: 100%" />
 </div>  
@@ -11,7 +11,6 @@
   
 
 - ***⚡ Fun fact: I like LSPDFR more than FiveM***
-- ***⚡ Join my Discord: https://discord.io/BlaineDevelopment***
   
 
 <br/>  
