@@ -1,6 +1,5 @@
 ## Hey 👋, I'm ZeroTheDev  
 <div align="center">
-<img src="https://i.imgur.com/wKuL9hg.png" align="center" style="width: 100%" />
 </div>  
   
 
