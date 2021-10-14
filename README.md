@@ -3,13 +3,13 @@
 </div>  
   
 
-### ***<div align="center"> 🚀I'm Blaine, A FiveM Developer and Programmer 👨‍💻 </div>***  
+### ***<div align="center"> 🚀I'm Fuel, A FiveM Developer and Programmer 👨‍💻 </div>***  
   
 
 - ***❓ Ask me about anything in my Discord***  
   
 
-- ***⚡ Fun fact: I like LSPDFR more than FiveM***
+- ***⚡ Fun fact: I taught myself everything***
   
 
 <br/>  
